@@ -1,4 +1,4 @@
-![Web Development Resources](Web_Development_Resources.png)
+![Web Development Resources](banner.png)
 
 This repository is a compilation of useful Web Development resources.
 
