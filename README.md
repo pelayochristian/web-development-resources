@@ -6,7 +6,7 @@ This repository is a compilation of useful Web Development resources.
 
 -   [UI/UX](#uiux)
 -   [Icons](#icons)
--   [Tailwind Frameworks](#icons)
+-   [Tailwind Frameworks](#tailwind-frameworks)
 
 ### UI/UX
 
