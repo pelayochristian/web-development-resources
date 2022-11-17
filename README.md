@@ -6,6 +6,7 @@ This repository is a compilation of useful Web Development resources.
 
 -   [UI/UX](#uiux)
 -   [Icons](#icons)
+-   [Tailwind Frameworks](#icons)
 
 ### UI/UX
 
@@ -18,3 +19,9 @@ This repository is a compilation of useful Web Development resources.
 
 -   [**Bootstrap Icons**: _Official open source SVG icon library for Bootstrap_](https://icons.getbootstrap.com)
 -   [**Heroicons**: _New MIT open source SVG icon library designed by Steve Schoger. Solid and stroke variants, one-click copy-paste, and Figma file. Built with Tailwind CSS._](https://icons.getbootstrap.com)
+
+### Tailwind Frameworks
+
+-   [**Flowbite**: _Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma._](https://icons.getbootstrap.com)
+
+-   [**Flowbite React Components**: _Build websites even faster with components on top of React and Tailwind CSS._](https://icons.getbootstrap.com)
