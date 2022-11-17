@@ -1,4 +1,6 @@
-This repository is a compilation of use full Web Development resources.
+![Web Development Resources](Web_Development_Resources.png)
+
+This repository is a compilation of useful Web Development resources.
 
 ## Table of Contents: Web Development Resources
 
