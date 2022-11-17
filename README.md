@@ -4,8 +4,8 @@ This repository is a compilation of useful Web Development resources.
 
 ## Table of Contents: Web Development Resources
 
--   [UI/UX](#build-your-own-3d-renderer)
--   [Icons](#build-your-own-3d-renderer)
+-   [UI/UX](#uiux)
+-   [Icons](#icons)
 
 ### UI/UX
 
