@@ -20,7 +20,7 @@ This repository is a compilation of useful Web Development resources.
 ### Icons
 
 -   [**Bootstrap Icons**: _Official open source SVG icon library for Bootstrap_](https://icons.getbootstrap.com)
--   [**Heroicons**: _New MIT open source SVG icon library designed by Steve Schoger. Solid and stroke variants, one-click copy-paste, and Figma file. Built with Tailwind CSS._](https://icons.getbootstrap.com)
+-   [**Heroicons**: _New MIT open source SVG icon library designed by Steve Schoger. Solid and stroke variants, one-click copy-paste, and Figma file. Built with Tailwind CSS._](https://heroicons.dev)
 
 ### Tailwind Frameworks
 
