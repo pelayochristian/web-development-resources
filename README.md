@@ -16,6 +16,7 @@ This repository is a compilation of useful Web Development resources.
 -   [**BGJar**: _Free svg background generator for your websites, blogs and app._](https://bgjar.com)
 -   [**Blobmaker**: _Make organic SVG shapes for your next design. Modify the complexity, contrast, and color, to generate unique SVG blobs every time._](https://www.blobmaker.app)
 -   [**Custom Shape Dividers**: _Create fully responsive shape dividers for your next web project._](https://www.shapedivider.app)
+-   [**Passion Hacks**: _Creating free tools and resources. Get our open source illustrations and animations, downloadable in PNG and SVG formats._](https://passionhacks.com)
 
 ### Icons
 
